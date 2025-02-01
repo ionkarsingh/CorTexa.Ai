@@ -41,6 +41,7 @@ function displayMessage(sender, message, className) {
     messageDiv.classList.add("message", className);
 
     message = message
+    
         .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
         .replace(/\*(.*?)\*/g, "<em>$1</em>")
         .replace(/\n/g, "<br>")
