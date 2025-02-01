@@ -20,7 +20,7 @@ To get started with **CorTexa AI**, follow the steps below to clone the reposito
 ### Steps
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/CorTexa-AI.git
+    git clone https://github.com/ionkarsingh/CorTexa.aI
     ```
 2. **Navigate to the project folder**:
     ```bash
