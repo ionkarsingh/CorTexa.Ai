@@ -1,4 +1,5 @@
 # CorTexa AI Chatbot
+![CorTexa AI ](CorTexaAI.png)
 
 Welcome to the **CorTexa AI** repository! 🚀 This project is a simple, fast, and user-friendly chatbot built using the **Google-powered Gemini API** and a custom frontend design. It’s designed to make AI accessible to everyone, with no complex knowledge required.
 
