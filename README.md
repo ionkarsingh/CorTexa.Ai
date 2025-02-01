@@ -34,7 +34,7 @@ To get started with **CorTexa AI**, follow the steps below to clone the reposito
     - Locate the `config.js` file in the project folder.
     - Paste your API key in the appropriate section.
     ```js
-    const apiKey = "YOUR_GOOGLE_API_KEY"; // Replace with your actual API key
+    const apiKey = "YOUR_GOOGLE_API_KEY"; // Replace with your actual API Key
     ```
 5. **Open the project in your browser**:
     - Double-click the `index.html` file to open it in your preferred browser.
